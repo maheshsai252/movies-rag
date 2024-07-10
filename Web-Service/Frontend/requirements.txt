@@ -1,0 +1,9 @@
+streamlit
+requests
+asyncio
+websockets
+boto3
+zipfile36
+asyncio
+pinecone-client
+openai

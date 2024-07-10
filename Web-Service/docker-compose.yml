@@ -1,0 +1,21 @@
+version: '3'
+services:
+  chat-be-service:
+    build:
+      context: ./Backend
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./Backend:/app
+    env_file:
+      - .env
+
+  chat-fe-app:
+    build:
+      context: ./Frontend
+    ports:
+      - "8501:8501"
+    volumes:
+      - ./Frontend:/app
+    env_file:
+      - .env
