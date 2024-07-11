@@ -27,7 +27,8 @@ The chatbot will respond to user queries about movies, provide recommendations, 
 
 Acquire Data: Download the movie dataset from [Kaggle](https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset/data?select=movies_metadata.csv).
 
-Data Cleaning:
+**Data Cleaning:**
+
 - Remove any irrelevant columns or information not needed for the chatbot.
 
 - Handle missing data by filling in defaults or removing incomplete entries.
@@ -41,18 +42,18 @@ Text Preparation:
 ## 3. Vector Database Implementation
 #### Chosen Database: Pinecone
 
-Steps:
+**Steps:**
 
-Setup Pinecone:
+**Setup Pinecone:**
 Create an account and set up an index in Pinecone.
 
-Data Indexing:
+**Data Indexing:**
 
 Use sentence transformer to Transform movie descriptions and relevant textual data into embedded vectors.
 
 Store these vectors in Pinecone, ensuring efficient indexing for quick retrieval.
 
-Configuration:
+**Configuration:**
 
 Configure the index to support semantic similarity searches, which will allow the chatbot to retrieve relevant movie data based on user queries.
 
@@ -63,16 +64,16 @@ Upload cleaned data into pinecone vector db.
 #### Frameworks Used: FastAPI for backend, Streamlit for frontend
 Steps:
 
-User Interface:
+**User Interface:**
 - Designed a simple, user-friendly interface in Streamlit where users can input natural language queries.
 
-Backend Logic:
+**Backend Logic:**
 - Implemented a FastAPI backend to handle incoming queries
 - Based on chat history, refine latest user question to standalone question based on chat history. Use a GPT-3.5 instruct to understand user intent and extract relevant information.
 - Use the Pinecone vector database to retrieve the most relevant movie data based on the processed query
 - Embed the retrieved context and refined query into prompt in langchain and send the content to user. 
 
-Orchestration: 
+**Orchestration:** 
 
 orchestrated frontend and backend using docker-compose.
 ## 5. Evaluation and Testing
@@ -105,7 +106,7 @@ Any bollywood movies where good wins over bad
 
 ## Challenges Faced
 
-**:Data Quality**:
+**Data Quality**:
 
 Challenge: The Kaggle dataset contained incomplete or inconsistent entries. 
 

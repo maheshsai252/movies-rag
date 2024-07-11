@@ -92,5 +92,5 @@ st.markdown("""
 
 # Display chat messages
 for entry in st.session_state['chat_history'][::-1]:
-    st.markdown(f'<div class="chat-container"><div class="user-message">{entry["user"]}</div></div>', unsafe_allow_html=True)
-    st.markdown(f'<div class="chat-container"><div class="bot-message">{entry["response"]}</div><br/>Movies Referring to:<br/><div class="movies-desc">{entry["movies_desc"]}</div></div>', unsafe_allow_html=True)
+    st.markdown(f'<div class="chat-container"><div class="user-message">👤{entry["user"]}</div></div>', unsafe_allow_html=True)
+    st.markdown(f'<div class="chat-container"><div class="bot-message">🤖{entry["response"]}</div><br/>Movies Referring to:<br/><div class="movies-desc">{entry["movies_desc"]}</div></div>', unsafe_allow_html=True)
