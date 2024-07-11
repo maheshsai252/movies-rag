@@ -74,45 +74,45 @@ Include edge cases and unusual queries to evaluate robustness.
 
 Queries:  Recommend Animated Movies, Should have Sci-FI as well, Add drama 
 
-Hallucination test:
+#### Hallucination test:
 
 Queries: what is plot of movie ‘ksk’, changed release year of titanic in vector db and tested asking year
 
-Complex queries:
+#### Complex queries:
 
-Queries: any movies you know involving gang dramas story origin from india
+Any movies you know involving gang dramas story origin from india
 
 I am going to India for holidays, i want to watch movies on the way that shows the country heritage
 
 I am going to Florida for vacation, show me some movies involving catastrophic situations that can happen there
 
-Confusing Queries:
+#### Confusing Queries:
 
-any bollywood movies where good wins over bad
-any bollywood movies where good wins over bad
+Any bollywood movies where good wins over bad
+Any bollywood movies where good wins over bad
 
 
 ## Challenges Faced
 
-Data Quality:
+**:Data Quality**:
 
 Challenge: The Kaggle dataset contained incomplete or inconsistent entries. 
 
 Solution: Implemented robust data cleaning procedures, including filling missing values and removing irrelevant information.
 
-Vector Database Configuration:
+**Vector Database Configuration**:
 
 Challenge: Ensuring efficient and accurate indexing in Pinecone. 
 
 Solution: Experimented with different indexing parameters and configurations to optimize performance for semantic similarity searches.
 
-Query Understanding:
+**Query Understanding**:
 
 Challenge: Ensuring the LLM accurately understands and processes diverse natural language queries. 
 
 Solution: Tuned prompt of LLM using a variety of techniques learnt in class to improve understanding and accuracy.
 
-Performance Optimization:
+**Performance Optimization**:
 
 Challenge: Maintaining fast response times while handling complex queries. 
 
