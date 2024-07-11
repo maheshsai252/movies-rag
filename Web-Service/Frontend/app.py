@@ -77,6 +77,7 @@ st.markdown("""
         background-color: green;
         margin: 5px 5px 5px 20px;
         text-align: left;
+        padding: 10px;
     }
     .chat-container {
         display: flex;
