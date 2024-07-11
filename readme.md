@@ -1,5 +1,7 @@
 # Movie Chatbot Development Process
 
+Code for "Data Collection and Preprocessing", "Upload Data to Vector DB" and "Vector Database Implementation" available in [text](data_upload_to_vectorstore.ipynb).
+
 ## Steps to Run Application :
 
 - CD to Web-Service
