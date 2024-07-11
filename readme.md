@@ -1,5 +1,16 @@
 # Movie Chatbot Development Process
 
+## Steps to Run Application :
+
+- CD to Web-Service
+- Place your pinecone_api_key and openai_key.
+- "docker-compose build" build requirements
+- "docker-compose up" to start the app.
+
+## Demo
+
+[Youtube Link](https://www.youtube.com/watch?v=G9KNT74KJXU)
+
 ## 1. Domain Selection
 
 #### Application: Movie Chatbot
@@ -14,14 +25,14 @@ The chatbot will respond to user queries about movies, provide recommendations, 
 #### Data Source: Kaggle dataset on movies, Prompt Engineering to get mock data
 #### Steps:
 
-Acquire Data: Download the movie dataset from Kaggle.
+Acquire Data: Download the movie dataset from [Kaggle](https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset/data?select=movies_metadata.csv).
 
 Data Cleaning:
 - Remove any irrelevant columns or information not needed for the chatbot.
 
 - Handle missing data by filling in defaults or removing incomplete entries.
 
-- Generate missing plots of movies using LLM. 
+- Generate missing plots of movies using **prompt engineering** and **Generative AI**. 
 
 Text Preparation:
 - Remove special characters and unnecessary whitespace.
