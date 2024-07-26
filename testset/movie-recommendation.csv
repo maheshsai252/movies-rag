@@ -1,0 +1,210 @@
+Query,Context1,Context2,Context3,Context4,Context5
+"Can you recommend some classic sci-fi movies?","movie name: Blade Runner
+movie release date: 1982
+movie plot: A blade runner must pursue and terminate four replicants who stole a ship in space and have returned to Earth to find their creator.
+rating: 8.1","movie name: 2001: A Space Odyssey
+movie release date: 1968
+movie plot: After discovering a mysterious artifact buried beneath the Lunar surface, mankind sets off on a quest to find its origins with help from intelligent supercomputer H.A.L. 9000.
+rating: 8.3","movie name: The Terminator
+movie release date: 1984
+movie plot: A human soldier is sent from 2029 to 1984 to stop an almost indestructible cyborg killing machine, sent from the same year, which has been programmed to execute a young woman whose unborn son is the key to humanity's future salvation.
+rating: 8.1","movie name: Alien
+movie release date: 1979
+movie plot: After a space merchant vessel receives an unknown transmission as a distress call, one of the crew is attacked by a mysterious life form and they soon realize that its life cycle has merely begun.
+rating: 8.5",
+"What are some good thriller movies from the 90s?","movie name: The Silence of the Lambs
+movie release date: 1991
+movie plot: A young F.B.I. cadet must receive the help of an incarcerated and manipulative cannibal killer to help catch another serial killer, a madman who skins his victims.
+rating: 8.6","movie name: Se7en
+movie release date: 1995
+movie plot: Two detectives, a rookie and a veteran, hunt a serial killer who uses the seven deadly sins as his motives.
+rating: 8.6","movie name: The Usual Suspects
+movie release date: 1995
+movie plot: A sole survivor tells of the twisty events leading up to a horrific gun battle on a boat, which began when five criminals met at a seemingly random police lineup.
+rating: 8.5","movie name: Misery
+movie release date: 1990
+movie plot: After a famous author is rescued from a car crash by a fan of his novels, he comes to realize that the care he is receiving is only the beginning of a nightmare of captivity and abuse.
+rating: 7.8",
+"What are some critically acclaimed drama movies?","movie name: The Shawshank Redemption
+movie release date: 1994
+movie plot: Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.
+rating: 9.3","movie name: Forrest Gump
+movie release date: 1994
+movie plot: The presidencies of Kennedy and Johnson, the Vietnam War, the Watergate scandal and other historical events unfold from the perspective of an Alabama man with an IQ of 75, whose only desire is to be reunited with his childhood sweetheart.
+rating: 8.8","movie name: Schindler's List
+movie release date: 1993
+movie plot: In German-occupied Poland during World War II, industrialist Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis.
+rating: 9.0","movie name: The Green Mile
+movie release date: 1999
+movie plot: The lives of guards on Death Row are affected by one of their charges: a black man accused of child murder and rape, yet who has a mysterious gift.
+rating: 8.6","movie name: American Beauty
+movie release date: 1999
+movie plot: A sexually frustrated suburban father has a mid-life crisis after becoming infatuated with his daughter's best friend.
+rating: 8.3"
+"Can you suggest some mind-bending movies?","movie name: Inception
+movie release date: 2010
+movie plot: A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O.
+rating: 8.8","movie name: Memento
+movie release date: 2000
+movie plot: A man with short-term memory loss attempts to track down his wife's murderer.
+rating: 8.4","movie name: The Matrix
+movie release date: 1999
+movie plot: When a beautiful stranger leads computer hacker Neo to a forbidding underworld, he discovers the shocking truth--the life he knows is the elaborate deception of an evil cyber-intelligence.
+rating: 8.7","movie name: Donnie Darko
+movie release date: 2001
+movie plot: After narrowly escaping a bizarre accident, a troubled teenager is plagued by visions of a man in a large rabbit suit who manipulates him to commit a series of crimes.
+rating: 8.0","movie name: Eternal Sunshine of the Spotless Mind
+movie release date: 2004
+movie plot: When their relationship turns sour, a couple undergoes a medical procedure to have each other erased from their memories.
+rating: 8.3"
+"What are some great comedy movies from different decades?","movie name: Some Like It Hot
+movie release date: 1959
+movie plot: After two male musicians witness a mob hit, they flee the state in an all-female band disguised as women, but further complications set in.
+rating: 8.2","movie name: Airplane!
+movie release date: 1980
+movie plot: A man afraid to fly must ensure that a plane lands safely after the pilots become sick.
+rating: 7.7","movie name: Groundhog Day
+movie release date: 1993
+movie plot: A weatherman finds himself inexplicably living the same day over and over again.
+rating: 8.1","movie name: The Grand Budapest Hotel
+movie release date: 2014
+movie plot: A writer encounters the owner of an aging high-class hotel, who tells him of his early years serving as a lobby boy in the hotel's glorious years under an exceptional concierge.
+rating: 8.1",
+"Can you recommend some powerful war movies?","movie name: Saving Private Ryan
+movie release date: 1998
+movie plot: Following the Normandy Landings, a group of U.S. soldiers go behind enemy lines to retrieve a paratrooper whose brothers have been killed in action.
+rating: 8.6","movie name: Apocalypse Now
+movie release date: 1979
+movie plot: A U.S. Army officer serving in Vietnam is tasked with assassinating a renegade Special Forces Colonel who sees himself as a god.
+rating: 8.4","movie name: Full Metal Jacket
+movie release date: 1987
+movie plot: A pragmatic U.S. Marine observes the dehumanizing effects the Vietnam War has on his fellow recruits from their brutal boot camp training to the bloody street fighting in Hue.
+rating: 8.3","movie name: The Bridge on the River Kwai
+movie release date: 1957
+movie plot: British POWs are forced to build a railway bridge across the river Kwai for their Japanese captors in occupied Burma, not knowing that the allied forces are planning a daring commando raid through the jungle to destroy it.
+rating: 8.1",
+"What are some great movies based on true stories?","movie name: The Pianist
+movie release date: 2002
+movie plot: A Polish Jewish musician struggles to survive the destruction of the Warsaw ghetto of World War II.
+rating: 8.5","movie name: A Beautiful Mind
+movie release date: 2001
+movie plot: After John Nash, a brilliant but asocial mathematician, accepts secret work in cryptography, his life takes a turn for the nightmarish.
+rating: 8.2","movie name: The Pursuit of Happyness
+movie release date: 2006
+movie plot: A struggling salesman takes custody of his son as he's poised to begin a life-changing professional career.
+rating: 8.0","movie name: Catch Me If You Can
+movie release date: 2002
+movie plot: Barely 21 yet, Frank is a skilled forger who has passed as a doctor, lawyer and pilot. FBI agent Carl becomes obsessed with tracking down the con man, who only revels in the pursuit.
+rating: 8.1","movie name: The Imitation Game
+movie release date: 2014
+movie plot: During World War II, the English mathematical genius Alan Turing tries to crack the German Enigma code with help from fellow mathematicians.
+rating: 8.0"
+"Can you suggest some epic fantasy movies?","movie name: The Lord of the Rings: The Fellowship of the Ring
+movie release date: 2001
+movie plot: A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron.
+rating: 8.8","movie name: Pan's Labyrinth
+movie release date: 2006
+movie plot: In the Falangist Spain of 1944, the bookish young stepdaughter of a sadistic army officer escapes into an eerie but captivating fantasy world.
+rating: 8.2","movie name: The Princess Bride
+movie release date: 1987
+movie plot: While home sick in bed, a young boy's grandfather reads him the story of a farmboy-turned-pirate who encounters numerous obstacles, enemies and allies in his quest to be reunited with his true love.
+rating: 8.0","movie name: Stardust
+movie release date: 2007
+movie plot: In a countryside town bordering on a magical land, a young man makes a promise to his beloved that he'll retrieve a fallen star by venturing into the magical realm.
+rating: 7.6",
+"What are some must-watch animated movies?","movie name: Spirited Away
+movie release date: 2001
+movie plot: During her family's move to the suburbs, a sullen 10-year-old girl wanders into a world ruled by gods, witches, and spirits, and where humans are changed into beasts.
+rating: 8.6","movie name: Toy Story
+movie release date: 1995
+movie plot: A cowboy doll is profoundly threatened and jealous when a new spaceman figure supplants him as top toy in a boy's room.
+rating: 8.3","movie name: The Lion King
+movie release date: 1994
+movie plot: Lion prince Simba and his father are targeted by his bitter uncle, who wants to ascend the throne himself.
+rating: 8.5","movie name: WALL·E
+movie release date: 2008
+movie plot: In the distant future, a small waste-collecting robot inadvertently embarks on a space journey that will ultimately decide the fate of mankind.
+rating: 8.4","movie name: Up
+movie release date: 2009
+movie plot: 78-year-old Carl Fredricksen travels to Paradise Falls in his house equipped with balloons, inadvertently taking a young stowaway.
+rating: 8.3"
+"Can you recommend some thought-provoking science fiction films?","movie name: Arrival
+movie release date: 2016
+movie plot: A linguist works with the military to communicate with alien lifeforms after twelve mysterious spacecraft appear around the world.
+rating: 7.9","movie name: Ex Machina
+movie release date: 2014
+movie plot: A young programmer is selected to participate in a ground-breaking experiment in synthetic intelligence by evaluating the human qualities of a highly advanced humanoid A.I.
+rating: 7.7","movie name: Interstellar
+movie release date: 2014
+movie plot: A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.
+rating: 8.6","movie name: Her
+movie release date: 2013
+movie plot: In a near future, a lonely writer develops an unlikely relationship with an operating system designed to meet his every need.
+rating: 8.0","movie name: Blade Runner 2049
+movie release date: 2017
+movie plot: Young Blade Runner K's discovery of a long-buried secret leads him to track down former Blade Runner Rick Deckard, who's been missing for thirty years.
+rating: 8.0"
+"What are some classic film noir movies?","movie name: The Maltese Falcon
+movie release date: 1941
+movie plot: A private detective takes on a case that involves him with three eccentric criminals, a gorgeous liar, and their quest for a priceless statuette.
+rating: 8.0","movie name: Double Indemnity
+movie release date: 1944
+movie plot: An insurance representative lets himself be talked by a seductive housewife into a murder/insurance fraud scheme that arouses the suspicion of an insurance investigator.
+rating: 8.3","movie name: The Big Sleep
+movie release date: 1946
+movie plot: Private detective Philip Marlowe is hired by a wealthy family. Before the complex case is over, he's seen murder, blackmail, and what might be love.
+rating: 7.9","movie name: Sunset Boulevard
+movie release date: 1950
+movie plot: A screenwriter develops a dangerous relationship with a faded film star determined to make a triumphant return.
+rating: 8.4",
+"Can you suggest some great courtroom drama movies?","movie name: 12 Angry Men
+movie release date: 1957
+movie plot: A jury holdout attempts to prevent a miscarriage of justice by forcing his colleagues to reconsider the evidence.
+rating: 9.0","movie name: To Kill a Mockingbird
+movie release date: 1962
+movie plot: Atticus Finch, a lawyer in the Depression-era South, defends a black man against an undeserved rape charge, and his children against prejudice.
+rating: 8.3","movie name: A Few Good Men
+movie release date: 1992
+movie plot: Military lawyer Lieutenant Daniel Kaffee defends Marines accused of murder. They contend they were acting under orders.
+rating: 7.7","movie name: The Verdict
+movie release date: 1982
+movie plot: An underdog lawyer takes on a fraudulent insurance company.
+rating: 7.7",
+"What are some iconic romantic comedies?","movie name: When Harry Met Sally...
+movie release date: 1989
+movie plot: Harry and Sally have known each other for years, and are very good friends, but they fear sex would ruin the friendship.
+rating: 7.7","movie name: Notting Hill
+movie release date: 1999
+movie plot: The life of a simple bookshop owner changes when he meets the most famous film star in the world.
+rating: 7.1","movie name: Pretty Woman
+movie release date: 1990
+movie plot: A man in a legal but hurtful business needs an escort for some social events, and hires a beautiful prostitute he meets... only to fall in love.
+rating: 7.1","movie name: Bridget Jones's Diary
+movie release date: 2001
+movie plot: A British woman is determined to improve herself while she looks for love in a year in which she keeps a personal diary.
+rating: 6.7","movie name: 10 Things I Hate About You
+movie release date: 1999
+movie plot: A pretty, popular teenager can't go out on a date until her ill-tempered older sister does.
+rating: 7.3"
+"Can you recommend some classic monster movies?","movie name: Frankenstein
+movie release date: 1931
+movie plot: Dr. Frankenstein creates a simple creature from various body parts, but the thing lacks a soul and becomes a monster.
+rating: 7.8","movie name: King Kong
+movie release date: 1933
+movie plot: A film crew goes to a tropical island for an exotic location shoot and discovers a colossal ape who takes a shine to their female blonde star.
+rating: 7.9","movie name: Godzilla
+movie release date: 1954
+movie plot: American nuclear weapons testing results in the creation of a seemingly unstoppable, dinosaur-like beast.
+rating: 7.5","movie name: The Creature from the Black Lagoon
+movie release date: 1954
+movie plot: A strange prehistoric beast lurks in the depths of the Amazonian jungle. A group of scientists try to capture the animal and bring it back to civilization for study.
+rating: 7.0",
+"What are some great heist movies?","movie name: Ocean's Eleven
+movie release date: 2001
+movie plot: Danny Ocean and his ten accomplices plan to rob three Las Vegas casinos simultaneously.
+rating: 7.7","movie name: The Italian Job
+movie release date: 1969
+movie plot: Comic caper movie about a plan to steal a gold shipment from the streets of Turin by creating a traffic jam.
+rating: 7.3","movie name: Heat
+movie release date: 1995
+movie plot: A group of professional criminals
